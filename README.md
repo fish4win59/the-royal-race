@@ -23,6 +23,6 @@ La scène 3D charge Three.js depuis un CDN ; une connexion Internet est nécessa
 
 L'endurance varie selon le sprint, le placement dans le sillage et les trajectoires en virage. Après l'arrivée de tous les chevaux, le classement donne accès au podium.
 
-## Hébergement
+## Version en ligne
 
-Le dossier est un site statique. Le fichier `.openai/hosting.json` conserve la configuration du site actuellement publié.
+[Ouvrir le jeu](https://the-royal-race.muller-thomas1.chatgpt.site).
